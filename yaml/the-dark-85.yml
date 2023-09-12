@@ -1,0 +1,111 @@
+---
+object: card
+id: 46b762a7-a774-4cb4-8ecf-dd6486a066c3
+oracle_id: 7fcc8aab-6f7b-4474-b4e4-58cf4a119b22
+multiverse_ids:
+- 1775
+tcgplayer_id: 3567
+cardmarket_id: 7329
+name: Scarwood Bandits
+lang: en
+released_at: '1994-08-01'
+uri: https://api.scryfall.com/cards/46b762a7-a774-4cb4-8ecf-dd6486a066c3
+scryfall_uri: https://scryfall.com/card/drk/85/scarwood-bandits?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.jpg?1562911596
+  normal: https://cards.scryfall.io/normal/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.jpg?1562911596
+  large: https://cards.scryfall.io/large/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.jpg?1562911596
+  png: https://cards.scryfall.io/png/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.png?1562911596
+  art_crop: https://cards.scryfall.io/art_crop/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.jpg?1562911596
+  border_crop: https://cards.scryfall.io/border_crop/front/4/6/46b762a7-a774-4cb4-8ecf-dd6486a066c3.jpg?1562911596
+mana_cost: "{2}{G}{G}"
+cmc: 4.0
+type_line: Creature — Human Rogue
+oracle_text: |-
+  Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+  {2}{G}, {T}: Unless an opponent pays {2}, gain control of target artifact for as long as Scarwood Bandits remains on the battlefield.
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Landwalk
+- Forestwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a21c6836-c435-459a-81e3-22d2da174549
+set: drk
+set_name: The Dark
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a21c6836-c435-459a-81e3-22d2da174549
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/drk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/46b762a7-a774-4cb4-8ecf-dd6486a066c3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7fcc8aab-6f7b-4474-b4e4-58cf4a119b22&unique=prints
+collector_number: '85'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: b7e39e06-69eb-4bfb-8fd2-eaf188f8d236
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21502
+prices:
+  usd: '5.79'
+  usd_foil: 
+  usd_etched: 
+  eur: '6.45'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1775
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scarwood+Bandits&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scarwood+Bandits&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scarwood+Bandits
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3567?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scarwood+Bandits&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scarwood+Bandits&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

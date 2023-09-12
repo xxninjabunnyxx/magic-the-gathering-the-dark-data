@@ -1,0 +1,106 @@
+---
+object: card
+id: 2b60eb23-cb9a-4203-86fb-60e47dbd870b
+oracle_id: b906923c-9997-4da5-a05e-53eb4d2dff32
+multiverse_ids:
+- 1715
+tcgplayer_id: 3518
+cardmarket_id: 7381
+name: Fountain of Youth
+lang: en
+released_at: '1994-08-01'
+uri: https://api.scryfall.com/cards/2b60eb23-cb9a-4203-86fb-60e47dbd870b
+scryfall_uri: https://scryfall.com/card/drk/103/fountain-of-youth?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.jpg?1562905204
+  normal: https://cards.scryfall.io/normal/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.jpg?1562905204
+  large: https://cards.scryfall.io/large/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.jpg?1562905204
+  png: https://cards.scryfall.io/png/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.png?1562905204
+  art_crop: https://cards.scryfall.io/art_crop/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.jpg?1562905204
+  border_crop: https://cards.scryfall.io/border_crop/front/2/b/2b60eb23-cb9a-4203-86fb-60e47dbd870b.jpg?1562905204
+mana_cost: "{0}"
+cmc: 0.0
+type_line: Artifact
+oracle_text: "{2}, {T}: You gain 1 life."
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a21c6836-c435-459a-81e3-22d2da174549
+set: drk
+set_name: The Dark
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a21c6836-c435-459a-81e3-22d2da174549
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/drk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2b60eb23-cb9a-4203-86fb-60e47dbd870b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab906923c-9997-4da5-a05e-53eb4d2dff32&unique=prints
+collector_number: '103'
+digital: false
+rarity: uncommon
+flavor_text: The Fountain had stood in the town square for centuries, but only the
+  pigeons knew its secret.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: c6d6e675-1e61-4761-926c-6ed718f474b6
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 10532
+penny_rank: 8046
+prices:
+  usd: '3.22'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.74'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1715
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Fountain+of+Youth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Fountain+of+Youth&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Fountain+of+Youth
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3518?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fountain+of+Youth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fountain+of+Youth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

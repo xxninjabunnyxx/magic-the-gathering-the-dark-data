@@ -1,0 +1,108 @@
+---
+object: card
+id: 35ffc69e-26f2-434f-8c89-2df108dd984a
+oracle_id: 86260d53-a68e-43cb-88ba-6a97c0b2f4f4
+multiverse_ids:
+- 1779
+tcgplayer_id: 3585
+cardmarket_id: 7333
+name: Tracker
+lang: en
+released_at: '1994-08-01'
+uri: https://api.scryfall.com/cards/35ffc69e-26f2-434f-8c89-2df108dd984a
+scryfall_uri: https://scryfall.com/card/drk/89/tracker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.jpg?1562907672
+  normal: https://cards.scryfall.io/normal/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.jpg?1562907672
+  large: https://cards.scryfall.io/large/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.jpg?1562907672
+  png: https://cards.scryfall.io/png/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.png?1562907672
+  art_crop: https://cards.scryfall.io/art_crop/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.jpg?1562907672
+  border_crop: https://cards.scryfall.io/border_crop/front/3/5/35ffc69e-26f2-434f-8c89-2df108dd984a.jpg?1562907672
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Human
+oracle_text: "{G}{G}, {T}: Tracker deals damage equal to its power to target creature.
+  That creature deals damage equal to its power to Tracker."
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: true
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a21c6836-c435-459a-81e3-22d2da174549
+set: drk
+set_name: The Dark
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a21c6836-c435-459a-81e3-22d2da174549
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/drk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/35ffc69e-26f2-434f-8c89-2df108dd984a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A86260d53-a68e-43cb-88ba-6a97c0b2f4f4&unique=prints
+collector_number: '89'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: '0685fc7b-bdf3-485e-b503-3338695d80e9'
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24605
+prices:
+  usd: '6.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '9.99'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1779
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tracker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tracker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tracker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3585?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tracker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tracker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

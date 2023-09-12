@@ -1,0 +1,16 @@
+---
+object: set
+id: a21c6836-c435-459a-81e3-22d2da174549
+code: drk
+tcgplayer_id: 109
+name: The Dark
+uri: https://api.scryfall.com/sets/a21c6836-c435-459a-81e3-22d2da174549
+scryfall_uri: https://scryfall.com/sets/drk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adrk&unique=prints
+released_at: '1994-08-01'
+set_type: expansion
+card_count: 122
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/drk.svg?1694404800

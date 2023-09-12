@@ -1,0 +1,110 @@
+---
+object: card
+id: 65a10fd5-506e-46bf-87e6-fde134c0dc04
+oracle_id: 1f696446-30ba-42ab-b4fc-ee9c956b0a62
+multiverse_ids:
+- 1799
+tcgplayer_id: 3555
+cardmarket_id: 7353
+name: Orc General
+lang: en
+released_at: '1994-08-01'
+uri: https://api.scryfall.com/cards/65a10fd5-506e-46bf-87e6-fde134c0dc04
+scryfall_uri: https://scryfall.com/card/drk/73/orc-general?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.jpg?1562918964
+  normal: https://cards.scryfall.io/normal/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.jpg?1562918964
+  large: https://cards.scryfall.io/large/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.jpg?1562918964
+  png: https://cards.scryfall.io/png/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.png?1562918964
+  art_crop: https://cards.scryfall.io/art_crop/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.jpg?1562918964
+  border_crop: https://cards.scryfall.io/border_crop/front/6/5/65a10fd5-506e-46bf-87e6-fde134c0dc04.jpg?1562918964
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Orc Warrior
+oracle_text: "{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1
+  until end of turn."
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a21c6836-c435-459a-81e3-22d2da174549
+set: drk
+set_name: The Dark
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a21c6836-c435-459a-81e3-22d2da174549
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adrk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/drk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/65a10fd5-506e-46bf-87e6-fde134c0dc04/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1f696446-30ba-42ab-b4fc-ee9c956b0a62&unique=prints
+collector_number: '73'
+digital: false
+rarity: uncommon
+flavor_text: '"Your army must fear you more than the enemy. Only then will you triumph."
+  —Malga Phlegmtooth'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jesper Myrfors
+artist_ids:
+- c011318e-8503-48c1-a990-46e50aff48a0
+illustration_id: a03a8e44-77a9-4f11-b353-40a17ba8dc36
+border_color: black
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21471
+prices:
+  usd: '2.73'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.33'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1799
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orc+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orc+General&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orc+General
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/3555?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orc+General&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Orc+General&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
